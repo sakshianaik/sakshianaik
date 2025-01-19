@@ -6,7 +6,7 @@
 - 🔭 I am currently working on building JavaScript projects with React for front-end development, emphasizing UI/UX design.
 - 🌱 I’m eager to expand my skill set by learning the MERN stack to further enhance my development capabilities.
 - 👯 I’m looking to collaborate on Open-source frontend projects.
-- 📫 How to reach me: sxn9229@mavs.uta.edu or my LinkedIn profile https://www.linkedin.com/in/sakshi-naik-07a8a81ab/
+- 📫 How to reach me: sakshinaik350@gmail.com or my LinkedIn profile https://www.linkedin.com/in/sakshi-naik-07a8a81ab/
 
 
 
