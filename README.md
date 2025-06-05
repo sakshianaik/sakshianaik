@@ -1,11 +1,8 @@
 ## Hi there 👋
 
- I’m Sakshi Naik, a graduate student in Computer and Information Science at the University of Texas at Arlington. I specialize in crafting intuitive designs that enhance user experiences and am passionate about 
- front-end development, ensuring that every interaction is seamless !
+ I’m Sakshi Naik, a graduate student in Computer and Information Science at the University of Texas at Arlington. I am passionate about building full-stack web applications with clean, scalable code and intuitive UI !
 
-- 🔭 I am currently working on building JavaScript projects with React for front-end development, emphasizing UI/UX design.
-- 🌱 I’m eager to expand my skill set by learning the MERN stack to further enhance my development capabilities.
-- 👯 I’m looking to collaborate on Open-source frontend projects.
+- 🌱 I leverage my full-stack knowledge, including the MERN stack, to enhance my development capabilities for robust testing solutions and ensure comprehensive coverage for web applications.
 - 📫 How to reach me: sakshinaik350@gmail.com or my LinkedIn profile https://www.linkedin.com/in/sakshi-naik-07a8a81ab/
 
 
