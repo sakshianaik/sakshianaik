@@ -12,18 +12,3 @@
 
 
 
-LANGUAGES AND TOOLS :
-
-HTML | CSS | JavaScript | TypeScript | ReactJS | NextJS
-
-Django | NodeJS | SQL | MongoDB 
-
-Postman
- 
-Version-Control/Git 
- 
-AWS
- 
-PyTHON | Java | C
- 
-Figma | Jira | Wix
